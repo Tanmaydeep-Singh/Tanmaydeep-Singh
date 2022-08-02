@@ -27,7 +27,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / CPP / MONGOD DB / C /Python
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanmaydeep-singh)  
 
-![GitHub metrics](https://metrics.lecoq.io/anshd258)  
+![GitHub metrics](https://metrics.lecoq.io/tanmaydeep-singh)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tanmaydeep-singh)  
 
