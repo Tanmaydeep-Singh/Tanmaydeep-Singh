@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Tanmaydeep Singh
 #### I am a full stack web developer. 
 ![GIF](https://github.com/Tanmaydeep-Singh/Tanmaydeep-Singh/blob/main/GIF/TANMAYDEEP%20SINGH.gif)
-[![@tanmaydeep's Holopin board](https://holopin.io/api/user/board?user=tanmaydeep)](https://holopin.io/@tanmaydeep)
 
 
 actively working with DSA, Web Development, Cpp and Dapps.
@@ -34,3 +33,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS / CPP / MONGOD DB / C /Python
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tanmaydeep-Singh)  
 
 ![Profile views](https://gpvc.arturio.dev/Tanmaydeep-Singh)  
+[![@tanmaydeep's Holopin board](https://holopin.io/api/user/board?user=tanmaydeep)](https://holopin.io/@tanmaydeep)
