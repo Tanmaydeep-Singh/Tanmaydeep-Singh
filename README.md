@@ -5,7 +5,7 @@
 
 actively working with DSA, Web Development, Cpp and Dapps.
 
-Skills: VUE JS / REACT / JS / HTML / CSS / CPP / MONGOD DB / C /Python
+Skills: VUE JS / REACT / JS / HTML / CSS / CPP / MONGOD DB / C /Python /Rust
 
 - 🔭 I’m currently working on Dapps and ML. 
 - 🌱 I’m currently learning web3.0 
