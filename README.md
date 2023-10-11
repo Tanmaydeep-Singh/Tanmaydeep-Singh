@@ -7,12 +7,12 @@ actively working with DSA, Web Development, Cpp and Dapps.
 
 Skills: VUE JS / REACT / JS / HTML / CSS / CPP / MONGOD DB / C /Python /Rust
 
-- 🔭 I’m currently working on Dapps and ML. 
 - 🌱 I’m currently learning web3.0 
 - 🤔 I’m looking for help with token creation 
 - 💬 Ask me about anything [Here](https://www.linkedin.com/in/tanmaydeep-singh) 
 - 📫 How to reach me: simarsing007@gmail.com
-- 😄 Pronouns: he/him 
+- 😄 Pronouns: he/him
+- [Twitter](https://twitter.com/SinghTanmaydeep)
 
 
 
