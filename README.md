@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Tanmaydeep Singh
-#### I am a full stack web developer. 
+#### DEV
 ![GIF](https://github.com/Tanmaydeep-Singh/Tanmaydeep-Singh/blob/main/GIF/TANMAYDEEP%20SINGH.gif)
 
 
