@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Tanmaydeep Singh
 #### DEV
-![GIF](https://github.com/Tanmaydeep-Singh/Tanmaydeep-Singh/blob/main/GIF/TANMAYDEEP%20SINGH.gif)
 
 
 actively working with DSA, Web Development, Cpp and Dapps.
