@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tanmaydeep
+- 👋 Hi, I’m @Tanmaydeep
 - 👀 I’m interested in Blockchain Development and Machine Learning.
 - 🌱 I’m currently learning Rust and Next.js
 - 💞️ I’m looking to collaborate on web3 projects and smart contracts.
