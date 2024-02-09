@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @Tanmaydeep Singh
+- 👋 Hi, I’m @Tanmaydeep Singh.
