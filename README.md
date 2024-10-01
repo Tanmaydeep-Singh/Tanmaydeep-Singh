@@ -3,7 +3,7 @@
 - 🚀 Currently building [Storyloom](https://storyloom.in/), a platform preserving culture through stories in multiple languages.
 - 💻 Developer | Tauri, Rust, Next.js, FastAPI, MongoDB enthusiast.
 - 📚 Passionate about storytelling, community engagement, and language learning.
-- 🌱 Constantly learning and exploring new technologies.
+- 🌱 Constantly learning and exploring technologies.
 
 ### Projects & Interests:
 - 🏗 Building microservices architecture with FastAPI for Storyloom.
