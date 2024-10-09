@@ -1,4 +1,4 @@
-# Hi there, I'm [Tanmaydeep Singh](https://tanmaydeep-singh.netlify.app/) 👋
+# Hi there, I'm [Tanmaydeep Singh](https://tanmaydeep-singh.netlify.app/) 
 
 - 🚀 Currently building [Storyloom](https://storyloom.in/), a platform preserving culture through stories in multiple languages.
 - 💻 Developer | Tauri, Rust, Next.js, FastAPI, MongoDB enthusiast
