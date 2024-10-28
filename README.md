@@ -6,7 +6,7 @@
 - 🌱 Constantly learning and exploring technologies.
 
 ### Projects & Interests:
-- 🏗 Building microservices architecture with FastAPI for Storyloom.
+- 🏗 Building microservices architecture with Nest for Storyloom.
 - 🌍 Exploring ways to connect people through stories and languages.
 - 📱 Developing [appGuard](https://github.com/tanmaydeep-singh) - a desktop app to manage app usage.
 - 📖 Writing folktales in German, Spanish, and Japanese.
