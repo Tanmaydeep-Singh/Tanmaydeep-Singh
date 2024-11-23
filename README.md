@@ -1,7 +1,7 @@
 # Hi there, I'm [Tanmaydeep Singh](https://tanmaydeep-singh.netlify.app/) 
 
 - 🚀 Currently building [Storyloom](https://storyloom.in/), a platform preserving culture through stories and folktale in multiple languages.
-- 💻 Developer | Tauri, Rust, Next.js, FastAPI, MongoDB, Flutter, Reddis, AWS.
+- 💻 Developer | Tauri, Rust, Next.js, FastAPI, MongoDB, Flutter, Reddis, AWS, GCP.
 - 📚 Passionate about storytelling, community engagement, and language learning.
 - 🌱 Constantly learning and exploring technologies.
 
