@@ -4,6 +4,7 @@
 - 💻 Developer | Tauri, Rust, Next.js, FastAPI, MongoDB, Flutter, Reddis, AWS, GCP.
 - 📚 Passionate about storytelling, community engagement, and language learning.
 - 🌱 Constantly learning and exploring technologies.
+- 📖 Build a custom chrome page. 
 
 ### Projects & Interests:
 - 🏗 Building microservices architecture with Nest for Storyloom.
