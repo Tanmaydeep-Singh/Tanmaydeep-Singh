@@ -13,3 +13,6 @@
 - 📖 Writing folktales in German, Spanish, French, Japanese and Russian.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tanmaydeep-singh/) or check out my portfolio [here](https://tanmaydeep-singh.netlify.app/). Let's build something great together! 🚀
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmaydeep-Singh&show_icons=true&locale=en" alt="Tanmaydeep-Singh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmaydeep-Singh&" alt="Tanmaydeep-Singh" /></p>
