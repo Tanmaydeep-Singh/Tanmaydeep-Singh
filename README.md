@@ -1,18 +1,68 @@
-# Hi there, I'm [Tanmaydeep Singh](https://tanmaydeep-singh.netlify.app/).
+# Hi, I’m Tanmaydeep Singh 👋
 
-- 🚀 Currently building [Storyloom](https://storyloom.in/), a platform preserving culture through stories and folktales in multiple languages.
-- 💻 Developer | Tauri, Rust, Next.js, FastAPI, MongoDB, Flutter, Reddis, AWS, GCP.
-- 📚 Passionate about storytelling, community engagement, and language learning.
-- 🌱 Constantly learning and exploring technologies.
-- 📖 Build a custom chrome page. 
+Software Developer with a strong interest in building scalable products, clean architectures, and meaningful user experiences. I enjoy working across backend, frontend, and desktop applications—especially where technology intersects with culture and storytelling.
 
-### Projects & Interests:
-- 🏗 Building microservices architecture with Nest for Storyloom.
-- 🌍 Exploring ways to connect people through stories and languages.
-- 📱 Developing [appGuard](https://github.com/tanmaydeep-singh) - a desktop app to manage app usage.
-- 📖 Writing folktales in German, Spanish, French, Japanese and Russian.
+🌐 Portfolio: https://tanmaydeep-singh.netlify.app  
+💼 LinkedIn: https://www.linkedin.com/in/tanmaydeep-singh/
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tanmaydeep-singh/) or check out my portfolio [here](https://tanmaydeep-singh.netlify.app/). Let's build something great together! 🚀
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmaydeep-Singh&show_icons=true&locale=en" alt="Tanmaydeep-Singh" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmaydeep-Singh&" alt="Tanmaydeep-Singh" /></p>
+## 🚀 What I’m Working On
+
+- **Storyloom** – A storytelling platform focused on preserving culture and folktales across multiple languages  
+  🔗 https://storyloom.in  
+  - Microservices architecture
+  - Multilingual content delivery
+  - Scalable backend systems
+
+- **appGuard** – A cross-platform desktop app to monitor and control application usage  
+  - Built using **Tauri + Rust + Next.js**
+  - Focused on productivity and system-level control
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Frameworks**
+- Rust, TypeScript, JavaScript
+- Next.js, FastAPI, NestJS
+- SwiftUI
+
+**Databases & Caching**
+- MongoDB
+- Redis
+
+**DevOps & Cloud**
+- AWS
+- Google Cloud Platform
+
+**Other**
+- Tauri (Desktop Apps)
+- REST APIs & Microservices
+- System-level programming (Windows-focused)
+
+---
+
+## 📚 Interests
+
+- Storytelling & folklore preservation  
+- Language learning (German, Spanish, French, Japanese, Russian)
+- Developer tooling & productivity software
+- Clean architecture & backend system design
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanmaydeep-Singh&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tanmaydeep-Singh&hide_border=true" />
+</p>
+
+---
+
+If you’re interested in collaborating or just want to talk tech, feel free to reach out.
+Let’s build something meaningful.
